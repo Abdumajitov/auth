@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "90b6",
+      "name": "asdfasdf",
+      "last": "asdfasdfa",
+      "email": "sdfasdfasf",
+      "password": "123123",
+      "passwordre": "123123"
+    },
+    {
+      "id": "4345",
+      "name": "admin",
+      "last": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123123",
+      "passwordre": "123123"
+    },
+    {
+      "id": "e07b",
+      "name": "name",
+      "last": "name",
+      "email": "samirabdumajitov200@gmail.com",
+      "password": "1231234",
+      "passwordre": "1231234"
+    }
+  ]
+}
